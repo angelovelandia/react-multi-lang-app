@@ -1,14 +1,2 @@
 # react-multi-lang-app
-Simple multi-language React JS application!
-
-## Authors ✒️
-
-* **Angelo Velandia** - *Complete Work* - [angelovelandia](https://github.com/angelovelandia)
-
-## Expressions of Gratitude 🎁
-
-* Thanks for downloading and using the project 📢
-* Donate with Paypal: `velandia_angelo@outlook.com`
-
----
-⌨️ with ❤️ by [angelovelandia](https://github.com/angelovelandia) 😊
+¡Sencilla aplicación React JS multi-idioma!
